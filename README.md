@@ -1,0 +1,2 @@
+# FishPlugin
+Плагин FishPlugin
